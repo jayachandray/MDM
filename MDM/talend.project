@@ -7,6 +7,19 @@
     <documentationStatus xmi:id="_SBPToH6BEeiNB7PROaiXxw" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_SBPToX6BEeiNB7PROaiXxw" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_SBPTon6BEeiNB7PROaiXxw" label="validated" code="VAL"/>
+    <componentsSettings xmi:id="_BUufwH6REeiyS6dfTuiF2Q" name="DI|tQASAddressIncomplete" family="Deprecated"/>
+    <componentsSettings xmi:id="_BUufwX6REeiyS6dfTuiF2Q" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_BUvG0H6REeiyS6dfTuiF2Q" name="DI|tSAPIDocInput" family="Business/SAP"/>
+    <componentsSettings xmi:id="_BUvG0X6REeiyS6dfTuiF2Q" name="DI|tSAPBWInput" family="Business/SAP"/>
+    <componentsSettings xmi:id="_BUvG0n6REeiyS6dfTuiF2Q" name="DI|tFuzzyJoin" family="Deprecated"/>
+    <componentsSettings xmi:id="_BUvt4H6REeiyS6dfTuiF2Q" name="DI|tQASAddressVerified" family="Deprecated"/>
+    <componentsSettings xmi:id="_BUvt4X6REeiyS6dfTuiF2Q" name="DI|tAccessBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_BUvt4n6REeiyS6dfTuiF2Q" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_BUvt436REeiyS6dfTuiF2Q" name="DI|tBlockedFuzzyJoin" family="Deprecated"/>
+    <componentsSettings xmi:id="_BUvt5H6REeiyS6dfTuiF2Q" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_BUvt5X6REeiyS6dfTuiF2Q" name="DI|tAccessOutputBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_BUvt5n6REeiyS6dfTuiF2Q" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_BUw8AH6REeiyS6dfTuiF2Q" name="DI|tQASAddressUnknown" family="Deprecated"/>
     <statAndLogsSettings xmi:id="_GWDM8H6DEeiyS6dfTuiF2Q">
       <parameters xmi:id="_GWD0AH6DEeiyS6dfTuiF2Q">
         <elementParameter xmi:id="_Gf4eYH6DEeiyS6dfTuiF2Q" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
